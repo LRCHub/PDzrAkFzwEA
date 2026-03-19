@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "base_track": "彗星",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-03-19T13:06:05.325792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "堀江由衣",
+      "has_synced": false,
+      "path": "select/01_彗星_堀江由衣.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "趙翊帆",
+      "has_synced": true,
+      "path": "select/02_彗星_趙翊帆.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/03_彗星_sumika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "白鲨JAWS",
+      "has_synced": false,
+      "path": "select/04_彗星_白鲨JAWS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "10-FEET",
+      "has_synced": true,
+      "path": "select/05_彗星_10-FEET.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "Hoshimachi Suisei, tuki., tuki., Kousuke Noma, KOHD",
+      "has_synced": true,
+      "path": "select/06_彗星_Hoshimachi_Suisei,_tuki.,_tuki.,_Kousuke_Noma,_KOHD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "彗星",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/07_彗星_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "彗星 - Suisei",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/08_彗星_-_Suisei_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彗星",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_彗星_星街すいせい.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "彗星",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/localdb_01_彗星_星街すいせい.txt",
+      "repo_name": "1YrG2WGeIJo"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "彗星",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/localdb_02_彗星_星街すいせい.txt",
+      "repo_name": "TbhDIlbj64Q"
+    }
+  ]
+}
