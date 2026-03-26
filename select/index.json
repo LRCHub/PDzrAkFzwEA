@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "彗星",
   "base_artist": "星街すいせい",
-  "createdAt": "2026-03-24T10:31:12.020239Z",
+  "createdAt": "2026-03-26T02:56:37.283326Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,7 +83,7 @@
       "artist": "星街すいせい",
       "has_synced": false,
       "path": "select/localdb_01_彗星_星街すいせい.txt",
-      "repo_name": "1YrG2WGeIJo"
+      "repo_name": "PDzrAkFzwEA"
     },
     {
       "id": "localdb_2",
@@ -92,7 +92,7 @@
       "artist": "星街すいせい",
       "has_synced": false,
       "path": "select/localdb_02_彗星_星街すいせい.txt",
-      "repo_name": "PDzrAkFzwEA"
+      "repo_name": "1YrG2WGeIJo"
     },
     {
       "id": "localdb_3",
