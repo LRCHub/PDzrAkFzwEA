@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "彗星",
   "base_artist": "星街すいせい",
-  "createdAt": "2026-03-26T02:56:37.283326Z",
+  "createdAt": "2026-04-04T11:32:32.892136Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,14 @@
       "artist": "Hoshimachi Suisei",
       "has_synced": true,
       "path": "select/08_彗星_-_Suisei_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "彗星(Nor ver.)",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/09_彗星(Nor_ver.)_星街すいせい.lrc"
     },
     {
       "id": "petitlyrics_1",
